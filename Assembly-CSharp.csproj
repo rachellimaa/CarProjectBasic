@@ -56,9 +56,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Plane\Scripts\FollowPlayerX.cs" />
+     <Compile Include="Assets\Plane\Scripts\PlayerControllerX.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
+     <None Include="Assets\Car Assets\_Source_Files\_LICENSE.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/CarProjectBasic/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
